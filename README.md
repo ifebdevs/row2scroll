@@ -1,4 +1,4 @@
-# Row 2 Scroll
+# Row 2 Scroll (beta)
 Transform Excel Rows into Interactive Cards
 
 [Visit the website to learn more about the add-in](https://row2scroll.ifebdevs.com/)
@@ -7,7 +7,7 @@ Transform Excel Rows into Interactive Cards
 
 1. Download the manifest file (manifest.xml) from the website.
 	a. https://row2scroll.ifebdevs.com/manifest.xml
-2. Open Microsoft Excel desktop version or Excel Online.
+2. Open Microsoft ~~Excel desktop version or~~ Excel Online.
 3. Navigate to the Home tab in the Excel ribbon and look for "Add-ins" on the right side of the ribbon.
 4. Click on "More Add-ins" to continue.
 5. In the Office Add-ins dialog, click on the "MY ADD-INS" tab next to the "Office Add-ins" title.
