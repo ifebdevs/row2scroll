@@ -18,3 +18,6 @@ Transform Excel Rows into Interactive Cards
 10. Click "Upload" to finish the installation process.
 11. After the upload, a new icon labeled "Excel Insights" will appear in your Excel ribbon, allowing you to open the Add-in and complete your practice tasks.
 
+# Feedback
+
+[Provide feedback here](https://github.com/ifebdevs/row2scroll/discussions/1)
