@@ -16,7 +16,8 @@ Transform Excel Rows into Interactive Cards
 8. Click the "Browse" button and navigate to your downloads folder.
 9. Select the manifest.xml file you downloaded earlier.
 10. Click "Upload" to finish the installation process.
-11. After the upload, a new icon labeled "Excel Insights" will appear in your Excel ribbon, allowing you to open the Add-in and complete your practice tasks.
+11. After the upload, a new icon will appear in your Excel ribbon, allowing you to open the Add-in and complete your tasks.
+12. Configure OpenAI or Gemini API key to test chat feature.
 
 # Feedback
 
